@@ -1,0 +1,16 @@
+txn_id,date,amount,type,account_no,description
+TXN001,2024-01-05,15000,credit,ACC1001,Salary deposit
+TXN002,2024-01-07,2500,debit,ACC1001,Rent payment
+TXN003,2024-01-10,500,debit,ACC1001,Grocery shopping
+TXN004,2024-01-15,8000,credit,ACC1002,Business income
+TXN005,2024-01-18,1200,debit,ACC1002,Electricity bill
+TXN006,2024-02-01,15000,credit,ACC1001,Salary deposit
+TXN007,2024-02-05,3000,debit,ACC1001,Car EMI
+TXN008,2024-02-10,750,debit,ACC1002,Internet bill
+TXN009,2024-02-20,5000,credit,ACC1003,Freelance payment
+TXN010,2024-03-01,15000,credit,ACC1001,Salary deposit
+TXN011,2024-03-05,3000,debit,ACC1001,Car EMI
+TXN012,2024-03-12,900,debit,ACC1003,Medical expense
+TXN013,2024-03-18,200,debit,ACC1001,ATM withdrawal
+TXN014,2024-03-25,12000,credit,ACC1002,Project payment
+TXN015,2024-04-01,15000,credit,ACC1001,Salary deposit

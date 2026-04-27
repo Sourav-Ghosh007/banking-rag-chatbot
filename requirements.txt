@@ -1,0 +1,47 @@
+# API & Framework
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# LangGraph & LangChain
+langgraph
+langchain-openai
+langchain-community
+
+# RAG & Vector Store
+chromadb
+openai
+tiktoken
+
+# Hybrid Search & Re-ranker
+rank-bm25
+sentence-transformers
+torch
+
+# Data processing + SQLite
+pandas
+openpyxl
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Auth
+authlib
+httpx
+cryptography
+
+# Frontend
+streamlit
+
+# Testing
+pytest
+pytest-asyncio
+
+# Utilities
+python-dotenv
+tenacity
+numpy
